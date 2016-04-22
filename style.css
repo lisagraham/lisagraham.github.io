@@ -1,0 +1,18 @@
+h1 {
+	color: #000000;
+	background-color: white;
+	font-family: Arial;
+	font-size: 28px;
+}
+
+body {
+		background-image: url ("../images/spabackground.jpg"); 
+		background-repeat: no-repeat;
+		background-position: center center; 
+		background-size: cover;
+}
+
+p, h2, li {
+		font-family: Arial;
+		font-size: 18px;
+}
